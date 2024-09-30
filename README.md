@@ -41,7 +41,6 @@ In this challenge, I’m working on one supervised learning project each day, co
 Each project has its own folder, where you can find:
 - *Code*: Jupyter Notebook or Python scripts used for the project.
 - *Data*: Link to the dataset or instructions on where to find it.
-- *Results*: Performance metrics and visualizations.
 
 Feel free to explore the projects, try them out, or suggest improvements!
 
