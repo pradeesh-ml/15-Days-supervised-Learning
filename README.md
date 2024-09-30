@@ -48,5 +48,3 @@ Feel free to explore the projects, try them out, or suggest improvements!
 🔗 [LinkedIn](https://www.linkedin.com/in/pradeesh-ml)  
 I’ll be sharing daily updates on LinkedIn, so make sure to follow along!
 
----
-
