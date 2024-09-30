@@ -1,6 +1,6 @@
 # Boston Housing Price Prediction
 
-This project demonstrates the use of **Linear Regression** to predict the median value of owner-occupied homes in the Boston area using the [Boston Housing Dataset](https://archive.ics.uci.edu/ml/datasets/Housing). It involves data preprocessing, feature engineering, model training, and evaluation.
+This project demonstrates the use of **Linear Regression** to predict the median value of owner-occupied homes in the Boston area using the Boston Housing Dataset. It involves data preprocessing, feature engineering, model training, and evaluation.
 
 ## Table of Contents
 - [Introduction](#introduction)
