@@ -6,10 +6,8 @@ This project demonstrates the use of various regression techniques to predict ca
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Project Workflow](#project-workflow)
-- [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 In this project, we aim to predict the **Price** of cars based on features such as engine volume, mileage, fuel type, and more. The project involves data preprocessing, feature engineering, model training, and evaluation. Due to the poor performance of Ridge and Lasso regression, we implement a Random Forest Regressor for better accuracy.
