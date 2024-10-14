@@ -24,7 +24,7 @@ The dataset used in this project consists of tweets with their sentiment labels.
 - **user**: Username of the tweet author.
 - **text**: The actual tweet text.
 
-**Dataset Link**: [Insert link here]
+**Dataset Link**: https://www.kaggle.com/datasets/kazanova/sentiment140
 
 ## Project Workflow
 
