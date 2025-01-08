@@ -22,7 +22,7 @@ In this challenge, I’m working on one supervised learning project each day, co
 | 12  | Loan Default Prediction                  | Random Forest Classifier      | Classification|
 | 13  | Credit Card Fraud Detection              | Gradient Boosting             | Classification|
 | 14  | Sentiment Analysis of Tweets             | Naive Bayes                   | Classification|
-| 15  | Wine Quality Classification              | Neural Networks               | Classification|
+| 15  | Wine Quality Classification              | Decicion Tree                 | Classification|
 
 ## Technologies Used
 
